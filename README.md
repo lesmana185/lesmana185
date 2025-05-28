@@ -1,4 +1,4 @@
-
+## Welcome Everyone👋
 
 ![header](img/github-header-image.png)
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 💻 I’m currently learning [**KOTLIN**](https://kotlinlang.org/) for android, **HTML**, **CSS**  and **JAVASCRIPT**
+ 🌱 I’m currently learning [**KOTLIN**](https://kotlinlang.org/) for android **HTML**, **CSS**, **JavaScript**
 
  ![venom](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHplMjg3M2U0NzZoYnh3YWV3MHA0NWt1c3RtenlvMWlxaTV2dXlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zni3OcpFieMSieQMw7/giphy.gif)
