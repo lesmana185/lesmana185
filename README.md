@@ -16,6 +16,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning [**KOTLIN**](https://kotlinlang.org/) for android **HTML**, **CSS**, **JavaScript**
+##### *Skills*
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+
+##### *Connect-with-me*
+
+![https://www.instagram.com/lexxshin_lesmana/?utm_source=wa4a&utm_campaign=wa_profile_web#](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@lexxshin_lesmana?_t=ZS-8wjTOBkKVLM&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
  ![venom](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHplMjg3M2U0NzZoYnh3YWV3MHA0NWt1c3RtenlvMWlxaTV2dXlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zni3OcpFieMSieQMw7/giphy.gif)
+
+
+ ##### *My first game*
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lesmana185/lesmana185/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lesmana185/lesmana185/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lesmana185/lesmana185/output/pacman-contribution-graph.svg">
+</picture>
+
+###
